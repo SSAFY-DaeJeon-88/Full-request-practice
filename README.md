@@ -10,6 +10,17 @@
 - [git 명령어 정리 (자세한 설명)](https://subicura.com/git/guide/basic.html#git-init-%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5)
 - [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - [git 커밋 메세지 규약을 알아봅시다!](https://doublesprogramming.tistory.com/256)
+- [git branch 전략에 대해서](https://www.inbogi.com/bok/2020/04/1/)
+<br>
+
+## 그외 팁
+- [git 에서 CRLF 개행 문자 차이로 인한 문제 해결하기](https://www.lesstif.com/gitbook/git-crlf-20776404.html)
+```bash
+# window OS에서 다음 명령문을 입력할 것
+git config --global core.autocrlf true
+```
+- git을 다루는 툴은 bash, github desktop, source tree, IDE내장 지원 등.. 다양함
+- git bash 에서 복사/붙여넣기 : Ctrl + INS / Shift + INS 키
 
 <br>
 
