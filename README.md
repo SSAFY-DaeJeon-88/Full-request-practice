@@ -1,4 +1,4 @@
-# Full-request-practice
+# git-practice
 
 본 저장소는 PR 연습용 저장소 입니다.<br>
 명령어를 숙지하여 깃을 잘 활용해 봅시다!<br><br>
