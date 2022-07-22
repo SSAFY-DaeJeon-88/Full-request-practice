@@ -11,6 +11,8 @@
 - [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - [git 커밋 메세지 규약을 알아봅시다!](https://doublesprogramming.tistory.com/256)
 - [git branch 전략에 대해서](https://www.inbogi.com/bok/2020/04/1/)
+- [PR이 완료 된 후 원래 REPO랑 FORK한 레포와 동기화 하는 법](https://json.postype.com/post/210431)
+ (master가 아닌 main 브랜치로 입력할 것.)
 <br>
 
 ## 그외 팁
