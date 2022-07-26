@@ -1,18 +1,26 @@
 # git-practice
 
 본 저장소는 PR 연습용 저장소 입니다.<br>
-명령어를 숙지하여 깃을 잘 활용해 봅시다!<br><br>
+명령어를 숙지하여 깃을 잘 활용해 봅시다!<br>
+<br>
 
-
-## git 공부시 참고 사이트
+# GIT 참고 사이트
 - [git tutorial 연습](https://learngitbranching.js.org/?locale=ko)
+- [git school - Violet-Bora-Lee](https://github.com/Violet-Bora-Lee/git-tutorial)
+- [git school (원본)](https://git-school.github.io/visualizing-git/)
 - [git 동영상 강의](https://codingapple.com/course/git-and-github/?error=login)
-- [git 명령어 정리 (자세한 설명)](https://subicura.com/git/guide/basic.html#git-init-%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5)
+- [git 명령어 정리 (자세한 설명)](https://subicura.com/git/guide/`basic.html#git-init-%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5)
 - [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - [git 커밋 메세지 규약을 알아봅시다!](https://doublesprogramming.tistory.com/256)
+- [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속 - NHN meetup](https://meetup.toast.com/posts/106)
 - [git branch 전략에 대해서](https://www.inbogi.com/bok/2020/04/1/)
 - [PR이 완료 된 후 원래 REPO랑 FORK한 레포와 동기화 하는 법](https://json.postype.com/post/210431)
  (master가 아닌 main 브랜치로 입력할 것.)
+- [Why GitHub renamed its master branch to main](https://www.theserverside.com/feature/Why-GitHub-renamed-its-master-branch-to-main)
+- [Git version control](https://missing-semester-kr.github.io/2020/version-control/)
+- [LINUX command line directions - 1](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
+- [LINUX command line directions - 2](https://github.com/Violet-Bora-Lee/linux-survival-for-korean)
+- [Command-line Environment](https://missing-semester-kr.github.io/2020/command-line/)
 <br>
 
 ## 그외 팁
